@@ -15,7 +15,7 @@
 
 Hi, I'm **Shreyashi** (you can call me **Shrey**). I'm an **AI & Data Science** student at **VIT Pune** (graduating 2028) who likes building things that are **smart, explainable and actually safe to use**. I don't just want a model with a good score. I want people to understand *why* it made a decision.
 
-- 🔭 **Right now:** exploring zero-knowledge proofs on the blockchain (Groth16, Solidity, Circom)
+- 🔭 **Working on:** the **Creditworthiness Registry** (zero-knowledge proofs on the blockchain) and **ProofLens**, my biggest idea yet (see below)
 - 🌱 **Learning:** AWS, cloud and backend systems
 - 🧪 **Built so far:** a zero-knowledge credit registry, a fraud-detection API, a multi-database benchmark and an AI + IoT water-quality monitor
 
@@ -27,6 +27,8 @@ Hi, I'm **Shreyashi** (you can call me **Shrey**). I'm an **AI & Data Science** 
 class Shrey:
     name       = "Shreyashi Kaitke"
     studying   = "AI & DS @ VIT Pune"
+    building   = "ProofLens: AI you can verify, not just trust"
+    skills     = ["data science", "ML", "vision", "agentic AI", "blockchain"]
     builds     = ["explainable AI", "safe automation", "fintech + security"]
     works_like = [
         "ship something that runs, not just a demo",
@@ -43,34 +45,57 @@ class Shrey:
 
 ---
 
-## 🛠️ Tech I Use
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetworkX-2C5E8A?style=for-the-badge"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Circom%20%2B%20snarkjs-6C3FC5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-</p>
+| Area | Tools |
+|---|---|
+| **🐍 Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/> |
+| **🧠 AI / Machine Learning** | <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning"/> <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Deep Learning"/> <img src="https://img.shields.io/badge/Generative%20AI-ec4899?style=flat-square" alt="Generative AI"/> <img src="https://img.shields.io/badge/NLP-0ea5e9?style=flat-square" alt="NLP"/> <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/> <img src="https://img.shields.io/badge/AI%20Agents-8b5cf6?style=flat-square" alt="AI Agents"/> <img src="https://img.shields.io/badge/Multimodal%20AI-14b8a6?style=flat-square" alt="Multimodal AI"/> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" alt="YOLOv8"/> <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square" alt="XGBoost"/> <img src="https://img.shields.io/badge/SHAP-a855f7?style=flat-square" alt="SHAP"/> |
+| **📚 Frameworks & Libraries** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/NetworkX-2C5E8A?style=flat-square" alt="NetworkX"/> |
+| **🤖 GenAI & AI Tools** | <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/> <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Studio"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/> |
+| **🌐 Web & Backend** | <img src="https://img.shields.io/badge/REST%20APIs-0ea5e9?style=flat-square" alt="REST APIs"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Backend%20Development-6366f1?style=flat-square" alt="Backend Development"/> |
+| **⛓️ Blockchain & Web3** | <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/> <img src="https://img.shields.io/badge/Circom-6C3FC5?style=flat-square" alt="Circom"/> <img src="https://img.shields.io/badge/Zero--Knowledge%20Proofs-7c3aed?style=flat-square" alt="Zero-Knowledge Proofs"/> <img src="https://img.shields.io/badge/Groth16-4c1d95?style=flat-square" alt="Groth16"/> <img src="https://img.shields.io/badge/snarkjs-6C3FC5?style=flat-square" alt="snarkjs"/> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/> |
+| **☁️ Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/WSL-0078D6?style=flat-square&logo=windows&logoColor=white" alt="WSL"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> |
+| **🗄️ Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/> |
+| **🧪 Development & Testing** | <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="PyTest"/> <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square" alt="Uvicorn"/> <img src="https://img.shields.io/badge/Virtual%20Environments-3776AB?style=flat-square&logo=python&logoColor=white" alt="Virtual Environments"/> |
+| **🔌 Hardware & IoT** | <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/> <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP8266"/> |
+| **🎓 Core Computer Science** | <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0f766e?style=flat-square" alt="Data Structures & Algorithms"/> <img src="https://img.shields.io/badge/OOP-7c3aed?style=flat-square" alt="OOP"/> <img src="https://img.shields.io/badge/DBMS-2563eb?style=flat-square" alt="DBMS"/> <img src="https://img.shields.io/badge/Operating%20Systems-ea580c?style=flat-square" alt="Operating Systems"/> <img src="https://img.shields.io/badge/Computer%20Networks-0891b2?style=flat-square" alt="Computer Networks"/> <img src="https://img.shields.io/badge/System%20Design-db2777?style=flat-square" alt="System Design"/> |
+
+---
+
+## 🧬 My Flagship: ProofLens
+
+> *Seeing is not believing. **Proving** is.*
+
+ProofLens is the one project that brings **all my skills together**: **data science, machine learning, computer vision, generative AI, agentic AI, blockchain, crypto and zero-knowledge proofs**, wrapped in a full-stack app. The goal is an AI whose decisions can be **checked by anyone, without showing anyone's private data**.
+
+```mermaid
+flowchart LR
+    A["📷 Computer Vision<br/>reads images and documents"] --> B["📊 Data Science<br/>clean data, features, drift checks"]
+    B --> C["🧠 ML models<br/>score and predict"]
+    C --> D["🤖 Agentic AI<br/>agents plan, use tools, cross-check"]
+    D --> E["💬 Generative AI<br/>explains the why in plain words"]
+    D --> F["🛡️ Safety gate<br/>risky actions need approval"]
+    F --> G["🔐 ZK proof<br/>proves it ran correctly, hides the data"]
+    G --> H["⛓️ Blockchain<br/>tamper-proof record"]
+    H --> I["🪙 Crypto incentives<br/>reward honest verifiers"]
+    E --> J["🖥️ React dashboard<br/>one place to see it all"]
+    H --> J
+```
+
+| Layer | What it brings |
+|---|---|
+| 📷 **Computer Vision** | Understands real-world input (photos, IDs, scenes) |
+| 📊 **Data Science** | Cleans the data, builds features, tracks model quality and drift |
+| 🧠 **Machine Learning** | Makes the prediction and a risk score |
+| 🤖 **Agentic AI** | AI agents that plan steps, call tools and double-check each other |
+| 💬 **Generative AI** | Writes the "why" so a human can follow every decision |
+| 🛡️ **Safety gate** | My motto in code: *intelligence recommends, safety decides* |
+| 🔐 **Zero-knowledge proofs** | Proves the result is genuine without leaking private data |
+| ⛓️ **Blockchain + crypto** | Makes the proof tamper-proof and rewards honest checking |
+| 🖥️ **Full stack + cloud** | React + FastAPI app, with AWS deployment on my learning path |
+
+🚧 **Status:** in active development. Builds on my [Creditworthiness Registry](https://github.com/shrey04kaitke-sys/creditworthiness-zkp) work and my earlier fraud-detection, graph-ML and computer-vision projects.
 
 ---
 
@@ -78,10 +103,10 @@ class Shrey:
 
 | Project | What it does | Built with |
 |---|---|---|
-| 🛡️ **[AegisStore](https://github.com/SHIVANI11233/aegisstore)** | AI storage framework for Linux. It predicts if a file will be used again and only suggests cleanup when it is safe. Every action can be undone. ROC-AUC 98.4% on synthetic data. | Python, scikit-learn, Streamlit, pytest, GitHub Actions |
+| 🧬 **ProofLens** 🚧 | Verifiable AI that combines data science, vision, ML, generative and agentic AI with zero-knowledge proofs and blockchain, so anyone can check a result without seeing private data. | Python, PyTorch, OpenCV, AI agents, LLMs, React, FastAPI, Circom, Solidity |
 | 🔗 **ChainTrace** | Finds suspicious Bitcoin wallets by linking blockchain data with network data in one graph, then explains each alert. | Python, NetworkX, Random Forest, Isolation Forest, Streamlit |
 | 🌙 **Lunar Sentinel** | Spots craters and boulders on the Moon's surface and gives landing sites a safety score. | YOLOv8, terrain analysis, Python |
-| 🔐 **[Creditworthiness Registry](https://github.com/shrey04kaitke-sys/creditworthiness-zkp)** | Lets someone prove they are creditworthy without showing their financial data, using zero-knowledge proofs. 80+ tests. | Solidity, Groth16, Circom, snarkjs |
+| 🔐 **[Creditworthiness Registry](https://github.com/shrey04kaitke-sys/creditworthiness-zkp)** | Lets someone prove they are creditworthy without showing their financial data, using zero-knowledge proofs. 80+ tests. 🚧 Working on the next phase. | Solidity, Groth16, Circom, snarkjs |
 | 🕵️ **[Fraud Detection API](https://github.com/shrey04kaitke-sys/fraud-detection)** | Catches suspicious transactions with an ML model and writes a plain-language reason for every decision. | Python, ML, LLM reasoning |
 | 🩺 **AKI-Guard** | Explainable early-warning system for Acute Kidney Injury with separate views for nurses and doctors. | React, FastAPI, PostgreSQL, XGBoost + SHAP |
 | 🌊 **Poseidon** | Low-cost water-quality monitoring using sensors and AI to catch marine pollution early. Pitched at the CII Sustainability Conclave 2026. | ESP8266, Arduino, turbidity + pH sensors, ML |
@@ -90,7 +115,7 @@ class Shrey:
 
 ## ✨ Highlights
 
-- 🛡️ **AegisStore:** the ML model reaches 98.4% ROC-AUC on test data (synthetic), and every cleanup can be undone
+- 🧬 **ProofLens:** my flagship project combining data science, ML, computer vision, generative + agentic AI, blockchain and crypto
 - 🔐 **Creditworthiness Registry:** 80+ tests with full coverage on the zero-knowledge proof verifier
 - 🌍 **Poseidon:** pitched to industry leaders at the CII Sustainability Conclave 2026 in Pune
 - 🗄️ **Multi-model database:** MySQL, MongoDB and Neo4j compared side by side with benchmarks
