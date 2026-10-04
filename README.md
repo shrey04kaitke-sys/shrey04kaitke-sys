@@ -9,17 +9,17 @@
   <img src="https://img.shields.io/badge/VIT%20PUNE-AI%20%26%20DS-ec4899?style=for-the-badge" alt="VIT Pune, AI and DS"/>
 </p>
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 👋 About Me
 
 Hi, I'm **Shreyashi** (you can call me **Shrey**). I'm an **AI & Data Science** student at **VIT Pune** (graduating 2028) who likes building things that are **smart, explainable and actually safe to use**. I don't just want a model with a good score. I want people to understand *why* it made a decision.
 
-- 🔭 **Working on:** the **Creditworthiness Registry** (zero-knowledge proofs on the blockchain) and **ProofLens**, my biggest idea yet (see below)
+- 🔭 **Working on:** the **Creditworthiness Registry** (zero-knowledge proofs on the blockchain) and **ProofLens**, my biggest idea yet
 - 🌱 **Learning:** AWS, cloud and backend systems
 - 🧪 **Built so far:** a zero-knowledge credit registry, a fraud-detection API, a multi-database benchmark and an AI + IoT water-quality monitor
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 🧠 How I Think
 
@@ -43,7 +43,7 @@ class Shrey:
 
 **📚 Learning in public:** my practice repos are open for anyone to see how I grow: [Python-Learning](https://github.com/shrey04kaitke-sys/Python-Learning) · [CPP-Learning](https://github.com/shrey04kaitke-sys/CPP-Learning) · [DSA-Journey](https://github.com/shrey04kaitke-sys/DSA-Journey)
 
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Tech Stack
 
@@ -61,67 +61,7 @@ class Shrey:
 | **🔌 Hardware & IoT** | <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/> <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP8266"/> |
 | **🎓 Core Computer Science** | <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0f766e?style=flat-square" alt="Data Structures & Algorithms"/> <img src="https://img.shields.io/badge/OOP-7c3aed?style=flat-square" alt="OOP"/> <img src="https://img.shields.io/badge/DBMS-2563eb?style=flat-square" alt="DBMS"/> <img src="https://img.shields.io/badge/Operating%20Systems-ea580c?style=flat-square" alt="Operating Systems"/> <img src="https://img.shields.io/badge/Computer%20Networks-0891b2?style=flat-square" alt="Computer Networks"/> <img src="https://img.shields.io/badge/System%20Design-db2777?style=flat-square" alt="System Design"/> |
 
----
-
-## 🧬 My Flagship: ProofLens
-
-> *Seeing is not believing. **Proving** is.*
-
-ProofLens is the one project that brings **all my skills together**: **data science, machine learning, computer vision, generative AI, agentic AI, blockchain, crypto and zero-knowledge proofs**, wrapped in a full-stack app. The goal is an AI whose decisions can be **checked by anyone, without showing anyone's private data**.
-
-```mermaid
-flowchart LR
-    A["📷 Computer Vision<br/>reads images and documents"] --> B["📊 Data Science<br/>clean data, features, drift checks"]
-    B --> C["🧠 ML models<br/>score and predict"]
-    C --> D["🤖 Agentic AI<br/>agents plan, use tools, cross-check"]
-    D --> E["💬 Generative AI<br/>explains the why in plain words"]
-    D --> F["🛡️ Safety gate<br/>risky actions need approval"]
-    F --> G["🔐 ZK proof<br/>proves it ran correctly, hides the data"]
-    G --> H["⛓️ Blockchain<br/>tamper-proof record"]
-    H --> I["🪙 Crypto incentives<br/>reward honest verifiers"]
-    E --> J["🖥️ React dashboard<br/>one place to see it all"]
-    H --> J
-```
-
-| Layer | What it brings |
-|---|---|
-| 📷 **Computer Vision** | Understands real-world input (photos, IDs, scenes) |
-| 📊 **Data Science** | Cleans the data, builds features, tracks model quality and drift |
-| 🧠 **Machine Learning** | Makes the prediction and a risk score |
-| 🤖 **Agentic AI** | AI agents that plan steps, call tools and double-check each other |
-| 💬 **Generative AI** | Writes the "why" so a human can follow every decision |
-| 🛡️ **Safety gate** | My motto in code: *intelligence recommends, safety decides* |
-| 🔐 **Zero-knowledge proofs** | Proves the result is genuine without leaking private data |
-| ⛓️ **Blockchain + crypto** | Makes the proof tamper-proof and rewards honest checking |
-| 🖥️ **Full stack + cloud** | React + FastAPI app, with AWS deployment on my learning path |
-
-🚧 **Status:** in active development. Builds on my [Creditworthiness Registry](https://github.com/shrey04kaitke-sys/creditworthiness-zkp) work and my earlier fraud-detection, graph-ML and computer-vision projects.
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Built with |
-|---|---|---|
-| 🧬 **ProofLens** 🚧 | Verifiable AI that combines data science, vision, ML, generative and agentic AI with zero-knowledge proofs and blockchain, so anyone can check a result without seeing private data. | Python, PyTorch, OpenCV, AI agents, LLMs, React, FastAPI, Circom, Solidity |
-| 🔗 **ChainTrace** | Finds suspicious Bitcoin wallets by linking blockchain data with network data in one graph, then explains each alert. | Python, NetworkX, Random Forest, Isolation Forest, Streamlit |
-| 🌙 **Lunar Sentinel** | Spots craters and boulders on the Moon's surface and gives landing sites a safety score. | YOLOv8, terrain analysis, Python |
-| 🔐 **[Creditworthiness Registry](https://github.com/shrey04kaitke-sys/creditworthiness-zkp)** | Lets someone prove they are creditworthy without showing their financial data, using zero-knowledge proofs. 80+ tests. 🚧 Working on the next phase. | Solidity, Groth16, Circom, snarkjs |
-| 🕵️ **[Fraud Detection API](https://github.com/shrey04kaitke-sys/fraud-detection)** | Catches suspicious transactions with an ML model and writes a plain-language reason for every decision. | Python, ML, LLM reasoning |
-| 🩺 **AKI-Guard** | Explainable early-warning system for Acute Kidney Injury with separate views for nurses and doctors. | React, FastAPI, PostgreSQL, XGBoost + SHAP |
-| 🌊 **Poseidon** | Low-cost water-quality monitoring using sensors and AI to catch marine pollution early. Pitched at the CII Sustainability Conclave 2026. | ESP8266, Arduino, turbidity + pH sensors, ML |
-
----
-
-## ✨ Highlights
-
-- 🧬 **ProofLens:** my flagship project combining data science, ML, computer vision, generative + agentic AI, blockchain and crypto
-- 🔐 **Creditworthiness Registry:** 80+ tests with full coverage on the zero-knowledge proof verifier
-- 🌍 **Poseidon:** pitched to industry leaders at the CII Sustainability Conclave 2026 in Pune
-- 🗄️ **Multi-model database:** MySQL, MongoDB and Neo4j compared side by side with benchmarks
-- ☁️ **Cloud:** learning AWS through AWS Skill Builder
-
----
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 📊 GitHub Stats
 
@@ -133,7 +73,17 @@ flowchart LR
   <img src="https://streak-stats.demolab.com?user=shrey04kaitke-sys&theme=tokyonight&hide_border=true&background=0a0f1f" alt="GitHub streak"/>
 </p>
 
----
+<img src="./divider.svg" width="100%" alt=""/>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="./assets/activity-graph.svg" width="100%" alt="Animated chart of my GitHub contributions"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shrey04kaitke-sys/shrey04kaitke-sys/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph"/>
+</p>
 
 ## 🤝 Let's Connect
 
@@ -144,5 +94,5 @@ I'm always up for team projects, research ideas and anything where AI has to be 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:a78bfa&height=100&section=footer"/>
+  <img src="./footer.svg" width="100%" alt="Thanks for stopping by"/>
 </p>
