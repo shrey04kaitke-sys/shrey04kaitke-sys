@@ -1,25 +1,23 @@
 <p align="center">
-  <img src="./banner.svg" alt="Shreyashi Kaitke - AI & ML Builder" width="100%"/>
+  <img src="./banner.svg" alt="Shreyashi Kaitke - AI & DS student and builder" width="100%"/>
 </p>
 
 <p align="center">
   <a href="mailto:shrey04kaitke@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0f1f?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-0a0f1f?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/shreyashi-kaitke-1691b4332"><img src="https://img.shields.io/badge/LINKEDIN-0a0f1f?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"/></a>
   <a href="https://github.com/shrey04kaitke-sys"><img src="https://img.shields.io/badge/GITHUB-0a0f1f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=shrey04kaitke-sys&label=PROFILE%20VIEWS&style=for-the-badge&color=f59e0b" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/VIT%20PUNE-AI%20%26%20DS-ec4899?style=for-the-badge" alt="VIT Pune, AI and DS"/>
 </p>
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm **Shreyashi** (you can call me **Shrey**). I'm an **AI & Machine Learning** student at **VIT Pune** (graduating 2028) who likes building things that are **smart, explainable and actually safe to use**. I don't just want a model with a good score. I want people to understand *why* it made a decision.
+Hi, I'm **Shreyashi** (you can call me **Shrey**). I'm an **AI & Data Science** student at **VIT Pune** (graduating 2028) who likes building things that are **smart, explainable and actually safe to use**. I don't just want a model with a good score. I want people to understand *why* it made a decision.
 
-- 🔭 **Right now:** building **AegisStore**, an ML system that decides which Linux files are safe to clean up
-- 🔐 **Also exploring:** zero-knowledge proofs on the blockchain (Groth16, Solidity, Circom)
+- 🔭 **Right now:** exploring zero-knowledge proofs on the blockchain (Groth16, Solidity, Circom)
 - 🌱 **Learning:** AWS, cloud and backend systems
-- 🏆 **Hackathon regular:** 9+ hackathons, including a runner-up finish, Smart India Hackathon and more
-- 📄 **Research:** paper on lunar landing-site safety accepted at ICDPN-2026 (Springer proceedings)
+- 🧪 **Built so far:** a zero-knowledge credit registry, a fraud-detection API, a multi-database benchmark and an AI + IoT water-quality monitor
 
 ---
 
@@ -28,7 +26,7 @@ Hi, I'm **Shreyashi** (you can call me **Shrey**). I'm an **AI & Machine Learnin
 ```python
 class Shrey:
     name       = "Shreyashi Kaitke"
-    studying   = "AI & ML @ VIT Pune"
+    studying   = "AI & DS @ VIT Pune"
     builds     = ["explainable AI", "safe automation", "fintech + security"]
     works_like = [
         "ship something that runs, not just a demo",
@@ -81,8 +79,8 @@ class Shrey:
 | Project | What it does | Built with |
 |---|---|---|
 | 🛡️ **[AegisStore](https://github.com/SHIVANI11233/aegisstore)** | AI storage framework for Linux. It predicts if a file will be used again and only suggests cleanup when it is safe. Every action can be undone. ROC-AUC 98.4% on synthetic data. | Python, scikit-learn, Streamlit, pytest, GitHub Actions |
-| 🔗 **ChainTrace** | Finds suspicious Bitcoin wallets by linking blockchain data with network data in one graph, then explains each alert. Built for Smart India Hackathon. | Python, NetworkX, Random Forest, Isolation Forest, Streamlit |
-| 🌙 **Lunar Sentinel** | Spots craters and boulders on the Moon's surface and gives landing sites a safety score. Paper accepted at ICDPN-2026. | YOLOv8, terrain analysis, Python |
+| 🔗 **ChainTrace** | Finds suspicious Bitcoin wallets by linking blockchain data with network data in one graph, then explains each alert. | Python, NetworkX, Random Forest, Isolation Forest, Streamlit |
+| 🌙 **Lunar Sentinel** | Spots craters and boulders on the Moon's surface and gives landing sites a safety score. | YOLOv8, terrain analysis, Python |
 | 🔐 **[Creditworthiness Registry](https://github.com/shrey04kaitke-sys/creditworthiness-zkp)** | Lets someone prove they are creditworthy without showing their financial data, using zero-knowledge proofs. 80+ tests. | Solidity, Groth16, Circom, snarkjs |
 | 🕵️ **[Fraud Detection API](https://github.com/shrey04kaitke-sys/fraud-detection)** | Catches suspicious transactions with an ML model and writes a plain-language reason for every decision. | Python, ML, LLM reasoning |
 | 🩺 **AKI-Guard** | Explainable early-warning system for Acute Kidney Injury with separate views for nurses and doctors. | React, FastAPI, PostgreSQL, XGBoost + SHAP |
@@ -90,13 +88,13 @@ class Shrey:
 
 ---
 
-## 🏆 Highlights
+## ✨ Highlights
 
-- 🥈 **Runner-up**, RTO Hackathon
-- 🇮🇳 **Smart India Hackathon 2026**, ChainTrace (Bitcoin AML detection)
-- 📄 **Springer proceedings**, Lunar Sentinel paper at ICDPN-2026
-- 🌍 **CII Sustainability Conclave 2026**, pitched Poseidon to industry leaders in Pune
-- ⚡ **9+ hackathons** across fintech, DevOps, social impact and analytics
+- 🛡️ **AegisStore:** the ML model reaches 98.4% ROC-AUC on test data (synthetic), and every cleanup can be undone
+- 🔐 **Creditworthiness Registry:** 80+ tests with full coverage on the zero-knowledge proof verifier
+- 🌍 **Poseidon:** pitched to industry leaders at the CII Sustainability Conclave 2026 in Pune
+- 🗄️ **Multi-model database:** MySQL, MongoDB and Neo4j compared side by side with benchmarks
+- ☁️ **Cloud:** learning AWS through AWS Skill Builder
 
 ---
 
@@ -114,7 +112,7 @@ class Shrey:
 
 ## 🤝 Let's Connect
 
-I'm always up for hackathon teams, research ideas and projects where AI has to be trustworthy. Say hi on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) or [email me](mailto:shrey04kaitke@gmail.com).
+I'm always up for team projects, research ideas and anything where AI has to be trustworthy. Say hi on [LinkedIn](https://www.linkedin.com/in/shreyashi-kaitke-1691b4332) or [email me](mailto:shrey04kaitke@gmail.com).
 
 <p align="center">
   <i>"Intelligence recommends. Safety decides."</i>
